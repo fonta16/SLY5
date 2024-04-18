@@ -27,7 +27,7 @@
 
     let saRPCs = [
         
-		'https://rpc.hellomoon.io/4a7277ac-6db1-444a-a779-6e6fb4be51dc', //Hello Moon
+		'https://rpc.hellomoon.io/a588b1ef-1549-43e4-9ce4-0094e5125134', //Hello Moon
         
 	];
     let readRPCs = customReadRPCs.concat(saRPCs);
