@@ -27,8 +27,8 @@
 
     let saRPCs = [
         
-//		'https://rpc.hellomoon.io/a588b1ef-1549-43e4-9ce4-0094e5125134', //Hello Moon
-        'https://mainnet.helius-rpc.com/?api-key=93f0dbc6-be3a-42c1-8cb6-c089f2f69d7b',//Helius
+'https://twilight-autumn-diagram.solana-mainnet.quiknode.pro/4fc53d638efd1cc0f80764bc457944bb325d1ff1', //Quicknode
+		'https://rpc.hellomoon.io/4a7277ac-6db1-444a-a779-6e6fb4be51dc', //Hello Moon
 	];
     let readRPCs = customReadRPCs.concat(saRPCs);
     let writeRPCs = customWriteRPCs.concat(saRPCs);
